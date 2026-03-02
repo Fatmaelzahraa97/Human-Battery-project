@@ -1,4 +1,4 @@
-# MGD-project
+# Human-battery-project
 Motion Graphics graduation project
 
 # Group-member
